@@ -9,7 +9,7 @@
     "changelogUrl": "https://example.com/changelog.html",
     "licensesUrl": "https://example.com/licensing.html",
    "gitDependencies": {
-    "com.quochieu.common": "https://github.com/QuocHieuNguyen/CommonPackage.git#1.0.4",
+    "com.quochieu.common": "https://github.com/QuocHieuNguyen/CommonPackage.git",
     "com.veriorpies.parrelsync": "https://github.com/VeriorPies/ParrelSync.git?path=/ParrelSync"
   },
    "keywords": [
